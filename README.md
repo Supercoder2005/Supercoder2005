@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srinjinee Mitra</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 - 🌱 I’m currently learning **Python**
 
