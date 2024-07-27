@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srinjinee Mitra</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721779200&semt=ais_user">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 🌱 I’m currently learning **Python**
 
