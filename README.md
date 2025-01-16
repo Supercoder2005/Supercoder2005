@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 # **Srinjinee Mitra** 🌟
-*B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake & B.S. Degree student of Data Science at IIT*
+*B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake & B.S. Degree student of Data Science at IITM*
 
 - 🌱 I’m currently learning **Web development**
 
