@@ -2,6 +2,9 @@
 <h3 align="center">A passionate tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
+# **Srinjinee Mitra** 🌟
+*B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake & B.S. Degree student of Data Science at IIT*
+
 - 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **mitrasrinjinee12@gmail.com**
