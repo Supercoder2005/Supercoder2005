@@ -24,7 +24,9 @@
 
 [![An image of @supercoder2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supercoder2005)](https://holopin.io/@supercoder2005)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supercoder2005&show_icons=true&locale=en&layout=compact" alt="supercoder2005" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Supercoder2005&show_icons=true&locale=en&layout=compact" alt="Supercoder2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Supercoder2005&show_icons=true&locale=en" alt="Supercoder2005" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supercoder2005&" alt="Supercoder2005" /></p>
 
 ---
