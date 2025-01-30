@@ -29,4 +29,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supercoder2005&" alt="Supercoder2005" /></p>
 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supercoder2005&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Supercoder2005&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supercoder2005&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" /><a/>
 ---
