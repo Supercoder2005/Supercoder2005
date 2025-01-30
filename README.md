@@ -27,7 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Supercoder2005&show_icons=true&locale=en&layout=compact" alt="Supercoder2005" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Supercoder2005&show_icons=true&locale=en" alt="Supercoder2005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supercoder2005&" alt="Supercoder2005" /></p>
+
 
 ## 📊 GitHub Stats:
 
