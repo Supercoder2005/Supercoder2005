@@ -1,3 +1,4 @@
+![logo](https://github.com/Supercoder2005/Supercoder2005/blob/main/Screenshot%202025-01-30%20144920.png)
 <h1 align="center">Hi 👋, I'm Srinjinee Mitra</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
