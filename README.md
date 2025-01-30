@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web development**
 - 💬 Ask me about **DSA, Python, C and SQL.**
-- 🔭 Loves Learning about new things, dancing, listening music, solving maths, travelling and driving !
+- 🔭 Loves **Learning about new things, dancing, listening music, solving maths, travelling** and **driving** !
   
 - 📫 How to reach me **mitrasrinjinee12@gmail.com**
 
