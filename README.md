@@ -35,3 +35,6 @@
 <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Supercoder2005&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supercoder2005&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" /><a/>
 ---
+
+## 📊 GitHub Contribution Graph:
+[![Supercoder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Supercoder2005&bg_color=000000&color=ffbb00&line=ff0000&point=10f000&area=true&hide_border=false)]()
