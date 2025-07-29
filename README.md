@@ -1,11 +1,14 @@
 ![logo](https://github.com/Supercoder2005/Supercoder2005/blob/main/Screenshot%202025-01-30%20144920.png)
 <h1 align="center">Hi 👋, I'm Srinjinee Mitra</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
+<p align = "center">
+  <img src="https://komarev.com/ghpvc/?username=Supercoder2005&label=Profile+Views&color=F7971E&style=for-the-badge" alt="Profile Views" />
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 # **Srinjinee Mitra** 🌟
 *B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake & B.S. Degree student of Data Science at IITM*
-
+<!-- Profile Views & Visitor Map -->
 - 🌱 I’m currently learning **Web development**
 - 💬 Ask me about **DSA, Python, C and SQL.**
 - 🔭 Loves **Learning about new things, dancing, listening music, solving maths, travelling** and **driving** !
@@ -99,3 +102,9 @@
 
 ## 📊 GitHub Contribution Graph:
 [![Supercoder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Supercoder2005&bg_color=000000&color=ffbb00&line=ff0000&point=10f000&area=true&hide_border=false)]()
+
+## 🏆 <span style="color:#F7971E">GitHub Trophies</span>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Supercoder2005&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
