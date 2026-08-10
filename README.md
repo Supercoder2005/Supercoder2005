@@ -1,26 +1,84 @@
 ![logo](https://github.com/Supercoder2005/Supercoder2005/blob/main/Screenshot%202025-01-30%20144920.png)
+
 <h1 align="center">Hi 👋, I'm Srinjinee Mitra</h1>
-<h3 align="center">A passionate tech enthusiast from India</h3>
-<p align = "center">
-  <img src="https://komarev.com/ghpvc/?username=Supercoder2005&label=Profile+Views&color=F7971E&style=for-the-badge" alt="Profile Views" />
+
+<h3 align="center">🧠 CSE-AIML Student | 📊 Data Science Enthusiast | 💻 Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Supercoder2005&label=Profile%20Views&color=F7971E&style=for-the-badge" alt="Profile Views" />
 </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 # **Srinjinee Mitra** 🌟
-*B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake & B.S. Degree student of Data Science at IITM*
-<!-- Profile Views & Visitor Map -->
-- 🌱 I’m currently learning **Web development**
-- 💬 Ask me about **DSA, Python, C and SQL.**
-- 🔭 Loves **Learning about new things, dancing, listening music, solving maths, travelling** and **driving** !
-  
-- 📫 How to reach me **mitrasrinjinee12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-  <div>
-    <a href="mailto:mitrasrinjinee12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
-    <a href="https://www.linkedin.com/in/srinjinee-mitra-661505286/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-    <a href="https://www.instagram.com/melomaniac_srinee/" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  </div> 
+*Final Year Computer Science & Engineering student specializing in AI & ML at Techno Main Salt Lake & B.S. Degree student in Data Science at IIT Madras*
+
+> *Turning curiosity into code, ideas into projects, and coffee into commits. ☕💻*
+
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Data Science & Generative AI**
+
+- 💻 Building with **Python, C, Java, Flask, FastAPI, SQL & modern web technologies**
+
+- 🌐 Passionate about **Full-Stack Development** and building practical applications
+
+- 🧩 Love solving problems using **DSA, mathematics & logical thinking**
+
+- 🚀 **Hackathon enthusiast** — building fast, learning faster!
+
+- 📚 Constantly learning, experimenting and turning ideas into projects
+
+- 🎨 Outside tech: **dancing, listening to music, travelling, driving & video editing**
+
+- 🌌 A **space lover** fascinated by the universe and everything beyond it
+
+<br>
+<br>
+
+<h3 align="left">🔨 What I Like Building</h3>
+
+<p>
+
+🤖 <b>AI-powered Applications</b> &nbsp; • &nbsp;
+📊 <b>Data-driven Solutions</b> &nbsp; • &nbsp;
+💻 <b>Full-Stack Web Apps</b> &nbsp; • &nbsp;
+⚡ <b>Automation</b> &nbsp; • &nbsp;
+🚀 <b>Hackathon Projects</b>
+
+</p>
+<br>
+<h3 align="left">🌱 Currently</h3>
+
+<p>
+Learning → Building → Breaking → Debugging → Learning Again 🔁
+</p>
+
+<p>
+I believe the best way to learn technology is to <b>build with it</b>.
+You'll find a mix of serious projects, experiments, and things I built simply
+because I was curious. 👀
+</p>
+<br>
+<h3 align="left">💭 My Philosophy</h3>
+
+<p>
+<i>"I don't just want to learn how technology works — I want to build things
+that make me say, <b>I actually made this.</b>"</i> ✨
+</p>
+
+<h3 align="left">🤝 Connect with me:</h3>
+
+<div>
+    <a href="mailto:mitrasrinjinee12@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/srinjinee-mitra--661505286/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/melomaniac_srinee/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+</div>
 
 ## 🛠️ Technologies & Tools
 
