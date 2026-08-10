@@ -8,65 +8,80 @@
   <img src="https://komarev.com/ghpvc/?username=Supercoder2005&label=Profile%20Views&color=F7971E&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-# **Srinjinee Mitra** 🌟
-
-*Final Year Computer Science & Engineering student specializing in AI & ML at Techno Main Salt Lake & B.S. Degree student in Data Science at IIT Madras*
-
-> *Turning curiosity into code, ideas into projects, and coffee into commits. ☕💻*
-
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, Data Science & Generative AI**
-
-- 💻 Building with **Python, C, Java, Flask, FastAPI, SQL & modern web technologies**
-
-- 🌐 Passionate about **Full-Stack Development** and building practical applications
-
-- 🧩 Love solving problems using **DSA, mathematics & logical thinking**
-
-- 🚀 **Hackathon enthusiast** — building fast, learning faster!
-
-- 📚 Constantly learning, experimenting and turning ideas into projects
-
-- 🎨 Outside tech: **dancing, listening to music, travelling, driving & video editing**
-
-- 🌌 A **space lover** fascinated by the universe and everything beyond it
-
-<br>
-<br>
-
-<h3 align="left">🔨 What I Like Building</h3>
+<h1 align="center">Srinjinee Mitra 🌟</h1>
 
 <p>
-
-🤖 <b>AI-powered Applications</b> &nbsp; • &nbsp;
-📊 <b>Data-driven Solutions</b> &nbsp; • &nbsp;
-💻 <b>Full-Stack Web Apps</b> &nbsp; • &nbsp;
-⚡ <b>Automation</b> &nbsp; • &nbsp;
-🚀 <b>Hackathon Projects</b>
-
+<i>Final Year Computer Science & Engineering student specializing in AI & ML at Techno Main Salt Lake & B.S. Degree student in Data Science at IIT Madras</i>
 </p>
+
+<blockquote>
+<i>Turning curiosity into code, ideas into projects, and coffee into commits. ☕💻</i>
+</blockquote>
+
+<ul>
+<li>🤖 Exploring <strong>Artificial Intelligence, Machine Learning, Data Science & Generative AI</strong></li>
+
+<li>💻 Building with <strong>Python, C, Java, Flask, FastAPI, SQL & modern web technologies</strong></li>
+
+<li>🌐 Passionate about <strong>Full-Stack Development</strong> and building practical applications</li>
+
+<li>🧩 Love solving problems using <strong>DSA, mathematics & logical thinking</strong></li>
+
+<li>🚀 <strong>Hackathon enthusiast</strong> — building fast, learning faster!</li>
+
+<li>📚 Constantly learning, experimenting and turning ideas into projects</li>
+
+<li>🎨 Outside tech: <strong>dancing, listening to music, travelling, driving & video editing</strong></li>
+
+<li>🌌 A <strong>space lover</strong> fascinated by the universe and everything beyond it</li>
+</ul>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="350" alt="Coding Animation">
+
+</td>
+</tr>
+</table>
+
 <br>
-<h3 align="left">🌱 Currently</h3>
+
+<h2>🔨 What I Like Building</h2>
+
+<p>
+🤖 <strong>AI-powered Applications</strong> &nbsp; • &nbsp;
+📊 <strong>Data-driven Solutions</strong> &nbsp; • &nbsp;
+💻 <strong>Full-Stack Web Apps</strong> &nbsp; • &nbsp;
+⚡ <strong>Automation</strong> &nbsp; • &nbsp;
+🚀 <strong>Hackathon Projects</strong>
+</p>
+
+<h2>🌱 Currently</h2>
 
 <p>
 Learning → Building → Breaking → Debugging → Learning Again 🔁
 </p>
 
 <p>
-I believe the best way to learn technology is to <b>build with it</b>.
+I believe the best way to learn technology is to <strong>build with it</strong>.
 You'll find a mix of serious projects, experiments, and things I built simply
 because I was curious. 👀
 </p>
-<br>
-<h3 align="left">💭 My Philosophy</h3>
 
-<p>
+<h2>💭 My Philosophy</h2>
+
+<blockquote>
 <i>"I don't just want to learn how technology works — I want to build things
-that make me say, <b>I actually made this.</b>"</i> ✨
-</p>
+that make me say, <strong>I actually made this.</strong>" ✨</i>
+</blockquote>
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h2>🤝 Connect with me</h2>
 
 <div>
     <a href="mailto:mitrasrinjinee12@gmail.com" target="_blank">
